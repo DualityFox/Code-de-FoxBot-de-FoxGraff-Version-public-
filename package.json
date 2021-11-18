@@ -1,0 +1,23 @@
+{
+  "name": "foxbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DualityFox",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.3.1",
+    "discord.js-pagination": "^1.0.3",
+    "ffmpeg-static": "^4.2.7",
+    "humanize-duration": "^3.23.1",
+    "moment": "^2.27.0",
+    "node": "^15.10.0",
+    "opusscript": "0.0.7",
+    "parse-duration": "^0.4.4",
+    "ytdl-core": "^4.5.0"
+  }
+}

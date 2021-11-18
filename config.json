@@ -1,0 +1,9 @@
+{
+    "token":"TOKEN", //Mettre le token de votre bot
+    "prefix":"!",
+    "ticket": {
+        "category": "Identifiant de catégorie", // Mettre l'identifiant de catégorie
+        "roles": ["Identifiant de rôles", ""]  // Mettre l'identifiant de rôle
+    },
+    "logs": "Identifiant de salon" // Mettre l'identifiant du salon
+}
